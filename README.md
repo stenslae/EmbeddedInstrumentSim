@@ -1,4 +1,4 @@
-# Instrument Simulator for REAL Cubesat — Project Overview
+# Instrument Simulator for REAL Flatsat — Project Overview
 
 ---
 
